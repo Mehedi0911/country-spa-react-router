@@ -1,0 +1,10 @@
+.country-container{
+    margin-bottom: 2rem;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 500px;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+.country-container img{
+    width: 25%;
+}
